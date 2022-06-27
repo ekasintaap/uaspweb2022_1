@@ -1,7 +1,6 @@
 import "./single.scss";
 import Sidebar from "../../../components/sidebar/Sidebar";
 import Navbar from "../../../components/navbar/Navbar";
-import Listbrg from "../../list/barang/Listbrg";
 
 const Singlebrg = () => {
   return (

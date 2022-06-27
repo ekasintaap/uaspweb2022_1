@@ -1,5 +1,4 @@
 import React from 'react';
-import img from '../../image/undraw_web_shopping_re_owap.svg'
 import './login.scss'
 import { Link } from "react-router-dom";
 import shoes from '../../image/shoes.png'
