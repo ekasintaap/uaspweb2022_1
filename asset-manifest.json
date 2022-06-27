@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uaspweb2022/static/css/main.7124cbbb.css",
+    "main.js": "/uaspweb2022/static/js/main.5d340150.js",
+    "static/media/shoes.png": "/uaspweb2022/static/media/shoes.f3e08fdd840ce887dc73.png",
+    "static/media/undraw_web_shopping_re_owap.svg": "/uaspweb2022/static/media/undraw_web_shopping_re_owap.68b2c35a6c8e688313c0d8204dca03e4.svg",
+    "index.html": "/uaspweb2022/index.html",
+    "main.7124cbbb.css.map": "/uaspweb2022/static/css/main.7124cbbb.css.map",
+    "main.5d340150.js.map": "/uaspweb2022/static/js/main.5d340150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7124cbbb.css",
+    "static/js/main.5d340150.js"
+  ]
+}
